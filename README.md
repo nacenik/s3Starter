@@ -1,1 +1,1 @@
-# s3Starter project for payment system
+# s3Starter
